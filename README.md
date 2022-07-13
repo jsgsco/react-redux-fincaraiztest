@@ -24,4 +24,4 @@ yarn dev
 
 Property validation was performed with PropTypes and which ones were required by component were selected.
 
-Developer by @jsgsco
+Developer by @jsgsco or @jsgsdev
