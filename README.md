@@ -24,4 +24,8 @@ yarn dev
 
 Property validation was performed with PropTypes and which ones were required by component were selected.
 
+The deployment was done with some better ones in the filter.
+
+[Rick and Morty Web APP Demo](https://brave-saha-1570b8.netlify.app/)
+
 Developer by @jsgsco or @jsgsdev
